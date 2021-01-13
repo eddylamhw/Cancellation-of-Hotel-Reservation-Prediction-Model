@@ -20,8 +20,36 @@ The data includes reservation data from two hotels, a resort hotel and a city ho
 7. Map the month and room names with corresponding numbers.
 
 ## 4. Exploratory Data Analysis
-<img src="https://github.com/eddylamhw/Cancellation-of-Hotel-Reservation-Prediction-Model/blob/main/images/Agent_1.png">
+### Country of Origin
+<img src="https://github.com/eddylamhw/Cancellation-of-Hotel-Reservation-Prediction-Model/blob/main/images/Country_of_Origin_1.png">
+<img src="https://github.com/eddylamhw/Cancellation-of-Hotel-Reservation-Prediction-Model/blob/main/images/Country_of_Origin_2.png">
+Most customers are from Portugal, France and UK.
+<img src="https://github.com/eddylamhw/Cancellation-of-Hotel-Reservation-Prediction-Model/blob/main/images/Country_of_Origin_3.png">
+Customers from Portugal, Brazil and Italy have higher percentages of booking cancellation.
 
+### Month
+<img src="https://github.com/eddylamhw/Cancellation-of-Hotel-Reservation-Prediction-Model/blob/main/images/Month_1.png">
+Cancellation of Booking for City Hotel is higher than Resort Hotel.
+Also, there are more cancellations from April to September, and cancellations are the lowest in February and November.
+
+### Agent
+<img src="https://github.com/eddylamhw/Cancellation-of-Hotel-Reservation-Prediction-Model/blob/main/images/Agent_1.png">
+<img src="https://github.com/eddylamhw/Cancellation-of-Hotel-Reservation-Prediction-Model/blob/main/images/Agent_2.png">
+In average, cancellation rate of customers with agent is about 40%, while it is around 25% for those booking without agent.
+
+### Special Requests
+<img src="https://github.com/eddylamhw/Cancellation-of-Hotel-Reservation-Prediction-Model/blob/main/images/Special_Request.png">
+Customers with fewer special requests tend to have higher percentage of cancellation.
+
+### Customer Type
+<img src="https://github.com/eddylamhw/Cancellation-of-Hotel-Reservation-Prediction-Model/blob/main/images/Customer.png">
+Group customers tend to have lower percentage of cancellation.
+
+### Lead Time
+<img src="https://github.com/eddylamhw/Cancellation-of-Hotel-Reservation-Prediction-Model/blob/main/images/Lead_Time_1.png">
+<img src="https://github.com/eddylamhw/Cancellation-of-Hotel-Reservation-Prediction-Model/blob/main/images/Lead_Time_2.png">
+<img src="https://github.com/eddylamhw/Cancellation-of-Hotel-Reservation-Prediction-Model/blob/main/images/Lead_Time_3.png">
+Most customers have lead time within 50 days. In general, cancellation rate is higher if there is longer lead time.
 
 ## 5. Models Creation
 The followings are the input variables:
@@ -49,5 +77,7 @@ The followings are the input variables:
 
 The following is the output variable:
 - Value indicating if the booking was canceled (IsCanceled)
+
+
 
 ## Logistic Regression
