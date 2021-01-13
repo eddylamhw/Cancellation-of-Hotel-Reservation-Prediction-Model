@@ -27,7 +27,7 @@ Customers from Portugal, Brazil and Italy have higher percentages of booking can
 
 ### Month
 <img src="https://github.com/eddylamhw/Cancellation-of-Hotel-Reservation-Prediction-Model/blob/main/images/Month_1.png">
-Cancellation of Booking for City Hotel is higher than Resort Hotel.
+Cancellation of Booking for City Hotel is higher than Resort Hotel. \
 Also, there are more cancellations from April to September, and cancellations are the lowest in February and November.
 
 ### Agent
@@ -127,11 +127,11 @@ In summary, it seems that for our dataset, permutation importance is more suitab
 <img src="https://github.com/eddylamhw/Cancellation-of-Hotel-Reservation-Prediction-Model/blob/main/images(ppt)/0036.jpg">
 
 # References
-Dataset
+Dataset \
 https://www.sciencedirect.com/science/article/pii/S2352340918315191
 https://www.kaggle.com/jessemostipak/hotel-booking-demand
 
-Kaggle Notebook
+Kaggle Notebook \
 Marcus Wingen: https://www.kaggle.com/marcuswingen/eda-of-bookings-and-ml-to-predict-cancelations
 
 
