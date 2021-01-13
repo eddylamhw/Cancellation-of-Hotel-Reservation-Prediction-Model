@@ -46,7 +46,7 @@ Customers with fewer special requests tend to have higher percentage of cancella
 Group customers tend to have lower percentage of cancellation.
 
 ### Lead Time
-<img src="https://github.com/eddylamhw/Cancellation-of-Hotel-Reservation-Prediction-Model/blob/main/images/Lead_Time_1.png">
+<img src="https://github.com/eddylamhw/Cancellation-of-Hotel-Reservation-Prediction-Model/blob/main/images/Lead_TIme_1.png">
 <img src="https://github.com/eddylamhw/Cancellation-of-Hotel-Reservation-Prediction-Model/blob/main/images/Lead_Time_2.png">
 <img src="https://github.com/eddylamhw/Cancellation-of-Hotel-Reservation-Prediction-Model/blob/main/images/Lead_Time_3.png">
 Most customers have lead time within 50 days. In general, cancellation rate is higher if there is longer lead time.
