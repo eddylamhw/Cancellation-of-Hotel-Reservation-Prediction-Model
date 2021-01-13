@@ -20,6 +20,7 @@ The data includes reservation data from two hotels, a resort hotel and a city ho
 7. Map the month and room names with corresponding numbers.
 
 ## 4. Exploratory Data Analysis
+<img src="https://github.com/eddylamhw/Cancellation-of-Hotel-Reservation-Prediction-Model/blob/main/images/Agent_1.png">
 
 
 ## 5. Models Creation
